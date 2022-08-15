@@ -113,7 +113,7 @@ liste4[1][2]
 
 liste_isimler = ["abdullah", "ayse", "selen"]
 
-liste_isimler[0] = liste_isimler[0] + ' bir piç'
+liste_isimler[0] = liste_isimler[0] + ' bir kral'
 
 liste_isimler[0]
 
